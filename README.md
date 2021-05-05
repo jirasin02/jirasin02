@@ -4,7 +4,7 @@ My name is Jirasin Jarethammajit.
 
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=algolia)]()
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&redirect=true)
 
 ### IZ*ONE
 - WIZ*ONE
