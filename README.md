@@ -2,7 +2,7 @@
 #
 My name is Jirasin Jarethammajit. 
 - CS Student, KMUTT
-# IZ*ONE
+### IZ*ONE
 - WIZ*ONE
 
 
