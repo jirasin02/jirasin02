@@ -2,7 +2,7 @@
 My name is Jirasin Jarethammajit. 
 - CS Student, KMUTT
 
-[![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=tokyonight)]()
+[![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=algolia)]()
 ### IZ*ONE
 - WIZ*ONE
 
