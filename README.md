@@ -1,5 +1,4 @@
 # Hi there 👋
-#
 My name is Jirasin Jarethammajit. 
 - CS Student, KMUTT
 ### IZ*ONE
