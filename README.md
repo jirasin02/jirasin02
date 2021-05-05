@@ -1,7 +1,8 @@
 ### Hi there 👋
 #
 My name is Jirasin Jarethammajit. 
-#WIZ*ONE
+#
+WIZ*ONE
 <!--
 **jirasin02/jirasin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
