@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 My name is Jirasin Jarethammajit. 
 - CS Student, KMUTT
 
