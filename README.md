@@ -9,7 +9,7 @@ My name is Jirasin Jarethammajit.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&redirect=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirasin02&repo=jirasin02)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirasin02&repo=jirasin02)](https://github.com/jirasin02/jirasin02)
 
 ### IZ*ONE
 
