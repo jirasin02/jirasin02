@@ -10,7 +10,7 @@ My name is Jirasin Jarethammajit.
 - Lofi
 - Piano
 ### 🎧 Spotify
-[![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=21xjchjcwtzuuwvp2l56ldaoi)](https://open.spotify.com/user/21xjchjcwtzuuwvp2l56ldaoi)
+[![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=21xjchjcwtzuuwvp2l56ldaoi&width=600)](https://open.spotify.com/user/21xjchjcwtzuuwvp2l56ldaoi)
 
 
 
