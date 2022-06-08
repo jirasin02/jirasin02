@@ -1,4 +1,4 @@
-# Hi 👋
+# Hello 👋
 My name is Jirasin Jarethammajit. 
 - CS Student, KMUTT
 
@@ -13,7 +13,4 @@ My name is Jirasin Jarethammajit.
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xjchjcwtzuuwvp2l56ldaoi&unique=true)
 
-### IZ*ONE
-
-![izone](https://user-images.githubusercontent.com/69670650/117122392-1609d000-adc0-11eb-8ea2-0b609b9e6555.jpeg)
 
