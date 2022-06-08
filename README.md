@@ -4,7 +4,7 @@ My name is Jirasin Jarethammajit.
 - 2nd year Computer Science Student at SIT, KMUTT
 ### 🧐 Interests
 - Front-end developer
-- ReactJS, VueJS, Flutter
+- ReactJS, VueJS, NodeJS, Flutter
 ### 🎵 Entertainment
 - K-pop
 - Lofi
