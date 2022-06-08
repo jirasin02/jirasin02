@@ -1,5 +1,6 @@
-# Hello 👋
+# Hi 👋
 My name is Jirasin Jarethammajit. 
+### 🎓 Education
 - CS Student, KMUTT
 
 
