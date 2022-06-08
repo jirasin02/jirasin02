@@ -9,11 +9,8 @@ My name is Jirasin Jarethammajit.
 - K-pop
 - Lofi
 - Piano
-- Pop
 
-### 🎧 Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21xjchjcwtzuuwvp2l56ldaoi&redirect=true)
+![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=21xjchjcwtzuuwvp2l56ldaoi)
 
 
 
