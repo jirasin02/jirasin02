@@ -18,5 +18,51 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 90 Contributions in the Year 2022
+ > 
+> 📦 4.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               0 secs              █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
+Dart                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
+ Last Updated on 07/07/2022 05:24:28 UTC
 <!--END_SECTION:waka-->
 
