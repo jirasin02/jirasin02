@@ -18,9 +18,9 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45%20Thousand%20lines%20of%20code-blue)
 
@@ -53,6 +53,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2022 05:36:57 UTC
+ Last Updated on 07/07/2022 18:52:09 UTC
 <!--END_SECTION:waka-->
 
