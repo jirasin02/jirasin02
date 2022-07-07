@@ -15,6 +15,8 @@ My name is Jirasin Jarethammajit.
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jirasin02&layout=compact&theme=nightowl)]()
 
+[![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
