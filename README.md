@@ -5,6 +5,7 @@ My name is Jirasin Jarethammajit.
 ### 💻 Interests
 - Front-end & Web developer
 - ReactJS, VueJS, NodeJS, Flutter
+- UX/UI Design
 ### 🎵 Entertainment
 - K-pop
 - Lofi
