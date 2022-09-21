@@ -19,7 +19,7 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -31,14 +31,17 @@ My name is Jirasin Jarethammajit.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-MDX                      12 mins             ████████████████████░░░░░   81.83% 
-TypeScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.17%
+TypeScript               2 hrs 41 mins       ██████████████████████░░░   90.12% 
+MDX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.0%
+Mac                      2 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -54,6 +57,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2022 18:56:56 UTC
+ Last Updated on 21/09/2022 18:58:24 UTC
 <!--END_SECTION:waka-->
 
