@@ -19,11 +19,31 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               6 hrs 9 mins        ██████████████████████░░░   90.52% 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+
+🔥 Editors: 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      6 hrs 47 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -38,6 +58,6 @@ Svelte                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 19:00:07 UTC
+ Last Updated on 27/09/2022 19:03:36 UTC
 <!--END_SECTION:waka-->
 
