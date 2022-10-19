@@ -1,7 +1,7 @@
 # Hi 👋
 My name is Jirasin Jarethammajit. 
 ### 🎓 Education
-- 2nd year Computer Science Student at SIT, KMUTT
+- 3rd year Computer Science Student at SIT, KMUTT
 ### 💻 Interests
 - Front-end & Web developer
 - ReactJS, VueJS, NodeJS, Flutter
