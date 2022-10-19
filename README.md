@@ -19,9 +19,9 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
 
@@ -31,17 +31,17 @@ My name is Jirasin Jarethammajit.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               57 mins             ██████████████░░░░░░░░░░░   58.64% 
-Python                   31 mins             ████████░░░░░░░░░░░░░░░░░   32.7% 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+EJS                      14 mins             ████████████░░░░░░░░░░░░░   51.11% 
+TypeScript               9 mins              ████████░░░░░░░░░░░░░░░░░   33.95% 
+JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.0%
+VS Code                  28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 37 mins        █████████████████████████   100.0%
+Mac                      28 mins             █████████████████████████   100.0%
 
 ```
 
@@ -58,6 +58,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2022 19:08:30 UTC
+ Last Updated on 19/10/2022 19:11:00 UTC
 <!--END_SECTION:waka-->
 
