@@ -19,11 +19,11 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,17 +31,17 @@ My name is Jirasin Jarethammajit.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Svelte                   12 hrs 57 mins      ███████████████████████░░   93.45% 
-TypeScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-SCSS                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+Svelte                   14 hrs 36 mins      ████████████████░░░░░░░░░   66.56% 
+TypeScript               6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   30.4% 
+SCSS                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 🔥 Editors: 
-VS Code                  13 hrs 52 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 56 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 hrs 52 mins      █████████████████████████   100.0%
+Mac                      21 hrs 56 mins      █████████████████████████   100.0%
 
 ```
 
@@ -58,6 +58,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 19:03:17 UTC
+ Last Updated on 10/11/2022 18:51:51 UTC
 <!--END_SECTION:waka-->
 
