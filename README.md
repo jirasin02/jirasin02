@@ -31,13 +31,13 @@ My name is Jirasin Jarethammajit.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 39 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -54,6 +54,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 18:46:12 UTC
+ Last Updated on 07/12/2022 18:46:46 UTC
 <!--END_SECTION:waka-->
 
