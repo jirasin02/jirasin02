@@ -25,24 +25,6 @@ My name is Jirasin Jarethammajit.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               43 mins             █████████████████████░░░░   86.61% 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Go                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.57%
-
-🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -56,6 +38,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2023 18:42:48 UTC
+ Last Updated on 02/01/2023 18:43:12 UTC
 <!--END_SECTION:waka-->
 
