@@ -23,7 +23,7 @@ My name is Jirasin Jarethammajit.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,9 +31,9 @@ My name is Jirasin Jarethammajit.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 mins              ████████████████████░░░░░   79.96% 
-MDX                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.39%
+TypeScript               4 mins              ████████████████████░░░░░   79.85% 
+MDX                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
 
 🔥 Editors: 
 VS Code                  5 mins              █████████████████████████   100.0%
@@ -56,6 +56,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 18:44:41 UTC
+ Last Updated on 07/01/2023 18:43:24 UTC
 <!--END_SECTION:waka-->
 
