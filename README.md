@@ -23,7 +23,7 @@ My name is Jirasin Jarethammajit.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -54,6 +54,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2023 18:44:52 UTC
+ Last Updated on 13/02/2023 18:46:34 UTC
 <!--END_SECTION:waka-->
 
