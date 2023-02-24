@@ -31,13 +31,13 @@ My name is Jirasin Jarethammajit.
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -53,6 +53,6 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 18:45:02 UTC
+ Last Updated on 24/02/2023 18:44:30 UTC
 <!--END_SECTION:waka-->
 
