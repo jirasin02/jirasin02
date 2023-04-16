@@ -31,16 +31,13 @@ My name is Jirasin Jarethammajit.
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          ████████████████████░░░░░   81.69 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,6 +53,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2023 18:41:27 UTC
+ Last Updated on 16/04/2023 18:41:40 UTC
 <!--END_SECTION:waka-->
 
