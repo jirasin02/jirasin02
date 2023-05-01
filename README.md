@@ -22,7 +22,7 @@ My name is Jirasin Jarethammajit.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-747.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-749.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,17 +30,13 @@ My name is Jirasin Jarethammajit.
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               47 mins             ███████████████████░░░░░░   74.82 % 
-HTML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,6 +52,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2023 18:41:39 UTC
+ Last Updated on 01/05/2023 18:41:09 UTC
 <!--END_SECTION:waka-->
 
