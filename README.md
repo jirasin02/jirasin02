@@ -18,11 +18,11 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-749.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-723.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,13 +30,14 @@ My name is Jirasin Jarethammajit.
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     23 mins             █████████████████████████   99.35 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -52,6 +53,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2023 18:41:39 UTC
+ Last Updated on 03/05/2023 18:41:48 UTC
 <!--END_SECTION:waka-->
 
