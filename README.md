@@ -22,7 +22,7 @@ My name is Jirasin Jarethammajit.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-935.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-941.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,6 +52,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2023 18:41:15 UTC
+ Last Updated on 24/07/2023 18:43:11 UTC
 <!--END_SECTION:waka-->
 
