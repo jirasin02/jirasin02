@@ -18,7 +18,7 @@ My name is Jirasin Jarethammajit.
 [![](https://github-readme-stats.vercel.app/api?username=jirasin02&show_icons=true&theme=nightowl)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,6 +52,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2023 18:42:06 UTC
+ Last Updated on 30/08/2023 18:42:13 UTC
 <!--END_SECTION:waka-->
 
