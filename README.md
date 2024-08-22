@@ -22,7 +22,7 @@ My name is Jirasin Jarethammajit.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-367.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,16 +42,16 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 21/08/2024 18:42:53 UTC
+ Last Updated on 22/08/2024 18:42:47 UTC
 <!--END_SECTION:waka-->
 
