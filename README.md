@@ -20,7 +20,7 @@ My name is Jirasin Jarethammajit.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.5%20thousand%20lines%20of%20code-blue)
 
@@ -52,6 +52,6 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2025 18:49:18 UTC
+ Last Updated on 02/10/2025 18:46:35 UTC
 <!--END_SECTION:waka-->
 
