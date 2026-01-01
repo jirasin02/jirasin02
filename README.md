@@ -22,7 +22,7 @@ My name is Jirasin Jarethammajit.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.50%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,6 +52,6 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:52:55 UTC
+ Last Updated on 01/01/2026 18:53:30 UTC
 <!--END_SECTION:waka-->
 
